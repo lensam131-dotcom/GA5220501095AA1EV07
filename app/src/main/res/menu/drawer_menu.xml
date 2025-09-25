@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Inicio"
+        android:icon="@drawable/baseline_home_24" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Perfil"
+        android:icon="@drawable/baseline_person_24" />
+
+    <item
+        android:id="@+id/nav_customers"
+        android:title="Clientes"
+        android:icon="@drawable/baseline_people_24" />
+
+    <item
+        android:id="@+id/nav_configuration"
+        android:title="Configuración"
+        android:icon="@drawable/baseline_build_circle_24" />
+
+    <item
+        android:id="@+id/nav_bill"
+        android:title="Facturación"
+        android:icon="@drawable/baseline_receipt_long_24" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Cerrar sesión"
+        android:icon="@drawable/baseline_logout_24" />
+
+</menu>

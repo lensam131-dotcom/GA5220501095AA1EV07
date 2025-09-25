@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background_gradient_color">
+
+    <LinearLayout
+        style="@style/EstiloCajaPadre">
+
+        <TextView
+            android:id="@+id/TextoUno"
+            style="@style/EstiloTextoTitulo"
+            android:text="@string/nombre"/>
+
+        <EditText
+            android:id="@+id/EditTextoUno"
+            style="@style/EstiloCampoTexto"
+            android:hint="@string/text_uno"/>
+
+        <EditText
+            android:id="@+id/EditTextoDos"
+            style="@style/StylePassword"
+            android:hint="@string/text_dos"/>
+
+        <Button
+            android:id="@+id/BotonUno"
+            style="@style/EstiloBotonPrincipal"
+            android:text="@string/Textoboton"/>
+
+    </LinearLayout>
+
+</LinearLayout>

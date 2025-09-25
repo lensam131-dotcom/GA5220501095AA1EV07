@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GA5-220501095-AA1-EV07</string>
+    <string name="text_uno">Ingrese su nombre</string>
+    <string name="text_dos">Ingrese su contraseña</string>
+    <string name="nombre">Inicio de sesión</string>
+    <string name="Textoboton">Ingresar</string>
+    <string name="SecondActivity">Inicio</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+</resources>
